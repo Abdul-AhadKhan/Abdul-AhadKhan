@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I am Abdul Ahad Khan, a Software Engineering student of FAST-NUCES. I spend most of my time with C++ and Visual Studio.  
+I am Abdul Ahad Khan, a Software Engineering student of FAST-NUCES.
 
 
 - 🔭 I’m currently pursuing my Software Engineering degree
